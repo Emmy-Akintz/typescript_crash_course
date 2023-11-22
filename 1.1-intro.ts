@@ -40,3 +40,11 @@ function printMenuItem(item: MenuItem) {
 // printMenuItem({ title: 'veggie carbonara', cost: '15'})
 
 // error example 3
+// printMenuItem({ name: 'avocado on toast', cost: 8 })
+
+// correct example
+printMenuItem({ title: 'cheese pizza', cost: 10 })
+
+// self documenting
+
+// printMenuItem()
