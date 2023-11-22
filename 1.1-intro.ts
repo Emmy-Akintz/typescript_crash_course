@@ -40,5 +40,3 @@ function printMenuItem(item: MenuItem) {
 // printMenuItem({ title: 'veggie carbonara', cost: '15'})
 
 // error example 3
-
-//4.16
