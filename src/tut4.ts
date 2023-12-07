@@ -4,3 +4,5 @@ console.log('hello, ninjas!!!!');
 // we need root directory(rootDir) and output directory(outDir)
 // tsc --watch
 // node --watch dist/tut4.js
+// npm install -g ts-node
+// ts-node tut4.ts
