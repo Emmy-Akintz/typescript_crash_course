@@ -6,3 +6,4 @@ console.log('hello, ninjas!!!!');
 // node --watch dist/tut4.js
 // npm install -g ts-node
 // ts-node tut4.ts
+// npm install --save-dev @types/node
