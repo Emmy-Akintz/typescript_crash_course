@@ -1,4 +1,4 @@
-// QUADRATIC EQUATION
+// QUADRATIC EQUATION using almighty formula
 let a: number = 1;
 let b: number = 6;
 let c: number = 8;
@@ -6,7 +6,6 @@ let d: number;
 let root1: number;
 let root2: number;
 
-// using almighty formula
 function quadraticSolver(): void {
     d = (b * b) - 4 * a * c
     d = Math.sqrt(d)
