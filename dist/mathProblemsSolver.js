@@ -1,12 +1,11 @@
 "use strict";
-// QUADRATIC EQUATION
+// QUADRATIC EQUATION using almighty formula
 let a = 1;
 let b = 6;
 let c = 8;
 let d;
 let root1;
 let root2;
-// using almighty formula
 function quadraticSolver() {
     d = (b * b) - 4 * a * c;
     d = Math.sqrt(d);
